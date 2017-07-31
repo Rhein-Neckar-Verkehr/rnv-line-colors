@@ -1,0 +1,103 @@
+
+.rnv-line-bus, .rnv-line-tram {
+	font-family: Arial,Helvetica Neue,Helvetica,sans-serif;
+	display:                inline-block;
+	width:                  2rem;
+    height:                 2rem;
+	line-height:            2rem;
+	font-weight:			bold;
+    text-align:             center;	
+}
+
+.rnv-line-bus {
+    -webkit-border-radius: 50%;
+	-moz-border-radius: 50%;
+	border-radius: 50%;
+}
+
+/* Ludwigshafen Mannheim */
+.rnv-line-1{ background-color:#f39b9a; color:#ffffff; }
+.rnv-line-2{ background-color:#b00346; color:#ffffff; }
+.rnv-line-3{ background-color:#d6ad00; color:#ffffff; }
+.rnv-line-4{ background-color:#e30613; color:#ffffff; }
+.rnv-line-4A{ background-color:#e30613; color:#ffffff; }
+.rnv-line-5{ background-color:#00975f; color:#ffffff; }
+.rnv-line-5A{ background-color:#00975f; color:#ffffff; }
+.rnv-line-6{ background-color:#956c29; color:#ffffff; }
+.rnv-line-6A{ background-color:#956c29; color:#ffffff; }
+.rnv-line-7{ background-color:#ffcc00; color:#ffffff; }
+.rnv-line-8{ background-color:#e17600; color:#ffffff; }
+.rnv-line-9{ background-color:#a9c94f; color:#ffffff; }
+.rnv-line-10{ background-color:#a71680; color:#ffffff; }
+.rnv-line-15{ background-color:#e3b674; color:#ffffff; }
+.rnv-line-40{ background-color:#4e2583; color:#ffffff; }
+.rnv-line-41{ background-color:#82d0f5; color:#ffffff; }
+.rnv-line-42{ background-color:#a1c3d6; color:#ffffff; }
+.rnv-line-43{ background-color:#589bd4; color:#ffffff; }
+.rnv-line-44{ background-color:#009a93; color:#ffffff; }
+.rnv-line-45{ background-color:#0069b4; color:#ffffff; }
+.rnv-line-46{ background-color:#a89bb1; color:#ffffff; }
+.rnv-line-47{ background-color:#82d0f5; color:#ffffff; }
+.rnv-line-48{ background-color:#009fe3; color:#ffffff; }
+.rnv-line-49{ background-color:#009640; color:#ffffff; }
+.rnv-line-50{ background-color:#abcc7b; color:#ffffff; }
+.rnv-line-51{ background-color:#0069b4; color:#ffffff; }
+.rnv-line-52{ background-color:#a89bb1; color:#ffffff; }
+.rnv-line-53{ background-color:#10bbef; color:#ffffff; }
+.rnv-line-54{ background-color:#b2a0cd; color:#ffffff; }
+.rnv-line-55{ background-color:#4e2583; color:#ffffff; }
+.rnv-line-56{ background-color:#10bbef; color:#ffffff; }
+.rnv-line-57{ background-color:#5bc5f2; color:#ffffff; }
+.rnv-line-58{ background-color:#a1c3d6; color:#ffffff; }
+.rnv-line-59{ background-color:#a89bb1; color:#ffffff; }
+.rnv-line-60{ background-color:#4e2583; color:#ffffff; }
+.rnv-line-61{ background-color:#4b96d2; color:#ffffff; }
+.rnv-line-62{ background-color:#a89bb1; color:#ffffff; }
+.rnv-line-63{ background-color:#a1c3d6; color:#ffffff; }
+.rnv-line-64{ background-color:#0091a6; color:#ffffff; }
+.rnv-line-70{ background-color:#4b96d2; color:#ffffff; }
+.rnv-line-71{ background-color:#a89bb1; color:#ffffff; }
+.rnv-line-72{ background-color:#0069b4; color:#ffffff; }
+.rnv-line-73{ background-color:#8bc5bd; color:#ffffff; }
+.rnv-line-74{ background-color:#82d0f5; color:#ffffff; }
+.rnv-line-75{ background-color:#008f88; color:#ffffff; }
+.rnv-line-76{ background-color:#4e2583; color:#ffffff; }
+.rnv-line-77{ background-color:#c290b8; color:#ffffff; }
+.rnv-line-78{ background-color:#4b96d2; color:#ffffff; }
+.rnv-line-84{ background-color:#8d2176; color:#ffffff; }
+.rnv-line-85{ background-color:#0069b4; color:#ffffff; }
+.rnv-line-86{ background-color:#82d0f5; color:#ffffff; }
+.rnv-line-87{ background-color:#69598f; color:#ffffff; }
+.rnv-line-88{ background-color:#8bc5bd; color:#ffffff; }
+.rnv-line-90{ background-color:#86bc25; color:#ffffff; }
+.rnv-line-94{ background-color:#83d0f5; color:#ffffff; }
+.rnv-line-96{ background-color:#c05d18; color:#ffffff; }
+.rnv-line-97{ background-color:#ffed00; color:#000000; }
+.rnv-line-E{ background-color:#9d9d9c; color:#ffffff; }
+.rnv-line-X{ background-color:#7c7c7b; color:#ffffff; }
+/*Heidelberg*/
+.rnv-line-21{ background-color:#e30613; color:#ffffff; }
+.rnv-line-22{ background-color:#fdc300; color:#000000; }
+.rnv-line-23{ background-color:#e48f00; color:#ffffff; }
+.rnv-line-24{ background-color:#8d2176; color:#ffffff; }
+.rnv-line-26{ background-color:#f39b9a; color:#ffffff; }
+.rnv-line-27{ background-color:#4e2583; color:#ffffff; }
+.rnv-line-28{ background-color:#b2a0cd; color:#ffffff; }
+.rnv-line-29{ background-color:#10bbef; color:#ffffff; }
+.rnv-line-30{ background-color:#baabd4; color:#ffffff; }
+.rnv-line-31{ background-color:#4b96d2; color:#ffffff; }
+.rnv-line-32{ background-color:#a1c3d6; color:#ffffff; }
+.rnv-line-33{ background-color:#0069b4; color:#ffffff; }
+.rnv-line-34{ background-color:#009fe3; color:#ffffff; }
+.rnv-line-35{ background-color:#4e2583; color:#ffffff; }
+.rnv-line-36{ background-color:#b2a0cd; color:#ffffff; }
+.rnv-line-37{ background-color:#10bbef; color:#ffffff; }
+.rnv-line-38{ background-color:#0097b5; color:#ffffff; }
+.rnv-line-39{ background-color:#512985; color:#ffffff; }
+.rnv-line-M1{ background-color:#f0d51f; color:#000000; }
+.rnv-line-M2{ background-color:#f0d51f; color:#000000; }
+.rnv-line-M3{ background-color:#f0d51f; color:#000000; }
+.rnv-line-M4{ background-color:#f0d51f; color:#000000; }
+.rnv-line-M5{ background-color:#f0d51f; color:#000000; }
+
+
