@@ -4,10 +4,10 @@ The [open data](https://opendata.rnv-online.de/) dataset [Linienfarben](https://
 
 ## Table of Contents
 
-- [How to use the CSS classes?](#How-to-use-the-css-classes?)
-- [How do the rnv lines look like?](#how-do-the-rnv-lines-look-like?)
-- [You have a question about the code or found a bug?](#you-have-a-question-about-the-code-or-found-a-bug?)
-- [You made changes and want to contribute them?](#you-made-changes-and-want-to-contribute-them?)
+- [How to use the CSS classes?](#How-to-use-the-css-classes)
+- [How do the rnv lines look like?](#how-do-the-rnv-lines-look-like)
+- [You have a question about the code or found a bug?](#you-have-a-question-about-the-code-or-found-a-bug)
+- [You made changes and want to contribute them?](#you-made-changes-and-want-to-contribute-them)
 
 ## How to use the CSS classes?
 
@@ -29,7 +29,7 @@ Include a html span tag with the desired classes in your html code:
 ```
 [Back to top](#table-of-contents)
 ## How do the rnv lines look like?
-The [index.html](https://rhein-neckar-verkehr.github.io/rnv-line-colors/index.html) examples of the rnv lines.
+The [index.html](https://rhein-neckar-verkehr.github.io/rnv-line-colors/index.html) is a example of the rnv lines.
 
 [Back to top](#table-of-contents)
 ## You have a question about the code or found a bug?
