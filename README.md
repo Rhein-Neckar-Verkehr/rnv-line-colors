@@ -21,7 +21,7 @@ Add the html link tag to your project and change *your-path* in the href attribu
 <link rel="stylesheet" type="text/css" href="./your-path/rnv-line-colors/rnv-line-colors.css" />
 ```
 
-Include a html span tag with the desired classes e. g. in your html code:
+Include a html span tag with the desired classes in your html code:
 ```
 <span class="rnv-line-tram rnv-line-5A"> 5A</span>
 <span class="rnv-line-tram rnv-line-1"> 1</span>
