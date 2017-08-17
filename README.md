@@ -4,7 +4,7 @@ The [open data](https://opendata.rnv-online.de/) dataset [Linienfarben](https://
 
 ## Table of Contents
 
-- [How to use the CSS classes?](#How-to-use-the-css-classes)
+- [How to use the CSS classes?](#how-to-use-the-css-classes)
 - [How do the rnv lines look like?](#how-do-the-rnv-lines-look-like)
 - [You have a question about the code or found a bug?](#you-have-a-question-about-the-code-or-found-a-bug)
 - [You made changes and want to contribute them?](#you-made-changes-and-want-to-contribute-them)
